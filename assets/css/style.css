@@ -1023,15 +1023,16 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
-  padding: 80px 0;
-  background: url("../img/Capturar.JPG") no-repeat;
+  background-color: #151515;
+
+  padding: 20rem 0;
+  /* background: url("../img/Capturar.JPG") no-repeat; */
   background-position: center center;
   background-size: cover;
   position: relative;
 }
 
 .testimonials::before {
-  content: "";
   position: absolute;
   left: 0;
   right: 0;
