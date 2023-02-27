@@ -1023,10 +1023,8 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
-  background-color: #151515;
-
-  padding: 20rem 0;
-  /* background: url("../img/Capturar.JPG") no-repeat; */
+  padding: 10rem 0;
+  background: url("../img/Capturar.JPG") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1418,7 +1416,6 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: black;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
